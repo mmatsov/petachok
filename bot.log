@@ -1,0 +1,6 @@
+2026-08-08 01:04:08,375 ERROR reply_storage error: list index out of range
+2026-08-08 01:05:21,908 ERROR Ошибка send_message: timed out
+2026-08-08 01:29:52,570 ERROR Infinity polling: polling exited
+2026-08-08 01:29:52,570 ERROR Break infinity polling
+2026-08-08 01:30:08,761 ERROR Infinity polling: polling exited
+2026-08-08 01:30:08,761 ERROR Break infinity polling
